@@ -110,7 +110,7 @@ export default function HomePage() {
 
       {/* 🦶 간단한 푸터 */}
       <footer className="mt-12 text-gray-500 text-sm">
-        © 2025 {data.name}'s Portfolio.
+        © 2025 {data.name}s Portfolio.
       </footer>
     </div>
   );
