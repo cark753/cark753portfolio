@@ -141,9 +141,7 @@ export default function HomePage() {
       </section>
 
       {/* 🦶 간단한 푸터 */}
-      <footer className="mt-12 text-gray-500 text-sm">
-        © 2025 {data.name}'s Portfolio.
-      </footer>
+      <footer>© 2025 {data.name}&apos;s Portfolio.</footer>
     </div>
   );
 }
