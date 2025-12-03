@@ -1,5 +1,3 @@
-// app/page.tsx
-
 export default function HomePage() {
   const data = {
     name: '박성준',
